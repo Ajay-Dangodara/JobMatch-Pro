@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+cohere
+streamlit-extras
+scikit-learn
